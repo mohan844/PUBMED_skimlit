@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains code for a text classification model designed to categorize text from PUBMED articles into individual categories, making it easier to read and navigate through the content.
-To Know more about PUBMET vist [[insert paper reference here](https://pubmed.ncbi.nlm.nih.gov/)]
+To Know more about PUBMET vist [(https://pubmed.ncbi.nlm.nih.gov/)]
 The model is based on the research paper [insert paper reference here], and achieves an accuracy of 87% on the test set.
 
 ## Features
